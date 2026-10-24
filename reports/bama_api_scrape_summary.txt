@@ -1,0 +1,12 @@
+BAMA API SCRAPE SUMMARY
+========================================
+Pages visited: 500
+API total_count (last response): 15001
+Unique ads saved: 14935
+Ads with positive numeric price: 10696
+Ads with mileage: 14935
+Ads with model year: 14935
+Ads marked lumpsum: 9916
+Non-ad items skipped: 3
+Errors: 0
+CSV: C:\Users\Malmaluna\iran_market_project\data\raw\cars_bama_api.csv
